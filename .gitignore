@@ -1,0 +1,11 @@
+# AUR build artifacts
+pkg/
+src/
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.log
+
+# Extracted/built DSDT
+dsdt.dat
+dsdt.dsl
+*.aml
